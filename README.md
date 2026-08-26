@@ -306,7 +306,7 @@ The dashboard communicates with the FastAPI backend and displays:
 
 ## Main Dashboard
 
-![Credit Risk Dashboard](images/dashboard.png)
+![Credit Risk Dashboard](dashboard.png)
 
 
 
@@ -314,7 +314,7 @@ The dashboard communicates with the FastAPI backend and displays:
 
 ## Credit Risk Prediction
 
-![Credit Risk Prediction](images/prediction.png)
+![Credit Risk Prediction](Risk.png)
 
 
 
@@ -322,7 +322,7 @@ The dashboard communicates with the FastAPI backend and displays:
 
 ## SHAP Explainability
 
-![SHAP Explainability](images/shap.png)
+![SHAP Explainability](SHAP.png)
 
 
 
