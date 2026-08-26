@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Large datasets
+*.csv
+*.zip
+*.7z
+*.rar
+
+# Model files
+*.joblib
+*.pkl
+*.pickle
+*.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Colab
+/content/
+
+# Generated files
+outputs/
+results/
+logs/
